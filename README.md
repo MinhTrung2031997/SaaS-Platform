@@ -20,4 +20,4 @@ $ "podman-compose up -d" or use "docker-compose up -d"
 
 - Access the application:
   - Frontend: http://localhost:8080
-  - Backend API Docs: http://localhost:3000/sass-platform/docs
+  - Backend API Docs: http://localhost:3001/sass-platform/docs
