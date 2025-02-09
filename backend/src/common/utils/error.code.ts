@@ -1,0 +1,6 @@
+export enum ErrorCode {
+  SUCCESS = 1,
+  UNKNOWN = -999999,
+  SUPER_TODO_NOT_FOUND = -300001,
+  INVALID_USER_ROLE = -300002,
+}
